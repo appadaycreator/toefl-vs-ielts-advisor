@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://appadaycreator.github.io/toefl-vs-ielts-advisor/sitemap.xml
